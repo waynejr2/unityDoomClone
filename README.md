@@ -16,8 +16,8 @@ To learn advanced graphics programming techniques by creating a fun small scale 
 
 ## Objectives:
  1. Graphics Rendering:
- - Implement advanced rendering techniques to achieve high-quality visual effects.
- - Incorporate lighting, shadows, and textures to enhance the game environment.
+   -  Implement advanced rendering techniques to achieve high-quality visual effects.
+   -  Incorporate lighting, shadows, and textures to enhance the game environment.
  2. Gameplay Mechanics:
 Develop smooth and responsive control mechanisms for player movement and actions.
 Design enemy AI and combat dynamics.
