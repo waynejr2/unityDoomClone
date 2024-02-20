@@ -38,4 +38,33 @@ Graphics APIs: OpenGL/DirectX/Unity
 Audio Libraries: [Need to Research]
 Development Tools: [To Be filled in]
 
+## Milestones:
+Initial Design and Planning: [Date]
+Finalize game concept and storyboard.
+Establish the graphical style and theme.
+Core Development: [Date]
+Develop basic gameplay mechanics and level design.
+Implement initial graphics rendering and audio systems.
+Enhancement and Refinement: [Date]
+Improve graphics and audio quality.
+Refine gameplay mechanics and level complexity.
+Testing and Optimization: [Date]
+Conduct thorough testing for bugs and performance issues.
+Optimize for various platforms and hardware configurations.
+Final Presentation and Submission: [Date]
+Prepare a comprehensive presentation showcasing the game.
+Submit the final version with complete documentation.
+
+## Expected Outcomes:
+The project will result in a fully functional FPS game that demonstrates advanced graphics techniques, engaging gameplay, and optimized performance. This will not only fulfill the course requirements but also serve as a significant portfolio piece for all team members.
+
+## Deliverables:
+A standard Unity deliverable is what we should expect, which should be a Unity build of the game and most likely be an exe file the user can open, along with some other files that Unity creates.
+
+## References, Papers, Research:
+Game Engine Black Book DOOM by Fabian Sanglard.
+Photon Engine (https://www.photonengine.com/)
+More to come.
+
+
 
